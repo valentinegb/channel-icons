@@ -175,6 +175,7 @@ $idea-feedback-icon: "M9.00225 19.4378C9.00276 19.6735 9.07267 19.9038 9.20325 2
 @include set-channel-icon("feedback", $idea-feedback-icon);
 /* German */
 @include set-channel-icon("vorschläge", $quote-icon);
+@include set-channel-icon("idee", $quote-icon);
 
 /* Introduction Channels */
 @include set-channel-icon("introduction", "M2.5 4V5.5C2.5 9.65 4.71 13.28 8 15.3V20H23V18C23 15.34 17.67 14 15 14C15 14 14.83 14 14.75 14C10 14 6 10 6 5.5V4H2.5ZM15 4C12.7909 4 11 5.79086 11 8C11 10.2091 12.7909 12 15 12C17.2091 12 19 10.2091 19 8C19 5.79086 17.2091 4 15 4Z");
