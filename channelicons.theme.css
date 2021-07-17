@@ -579,15 +579,15 @@
 }
 
 /* German */
-.mainContent-u_9PKf[aria-label*=befehle][aria-label$="text channel)"] > div > svg > path:first-child {
+.mainContent-u_9PKf[aria-label*=befehl][aria-label$="text channel)"] > div > svg > path:first-child {
   d: path("M12 14C7.289 14 4 16.467 4 20V22H20V20C20 16.467 16.711 14 12 14ZM11 19C10.447 19 10 18.553 10 18C10 17.447 10.447 17 11 17C11.553 17 12 17.447 12 18C12 18.553 11.553 19 11 19ZM14 19C13.447 19 13 18.553 13 18C13 17.447 13.447 17 14 17C14.553 17 15 17.447 15 18C15 18.553 14.553 19 14 19Z M18 6H17.91C17.432 3.167 14.967 1 12 1C9.033 1 6.568 3.167 6.09 6H6C4.896 6 4 6.896 4 8V9C4 10.104 4.896 11 6 11C6 12.102 6.897 13 8 13H16C17.104 13 18 12.102 18 11C19.104 11 20 10.104 20 9V8C20 6.896 19.104 6 18 6ZM16 10H8V6H16V10Z");
   transform: scale(1) !important;
 }
-.mainContent-u_9PKf[aria-label*=befehle][aria-label$="text channel)"] > div > svg[viewBox="0 0 40 40"] > path {
+.mainContent-u_9PKf[aria-label*=befehl][aria-label$="text channel)"] > div > svg[viewBox="0 0 40 40"] > path {
   transform: scale(1.7) !important;
 }
 
-.mainContent-u_9PKf[aria-label*=befehle][aria-label$="announcement channel)"] > div > svg > path {
+.mainContent-u_9PKf[aria-label*=befehl][aria-label$="announcement channel)"] > div > svg > path {
   d: path("M12 14C7.289 14 4 16.467 4 20V22H20V20C20 16.467 16.711 14 12 14ZM11 19C10.447 19 10 18.553 10 18C10 17.447 10.447 17 11 17C11.553 17 12 17.447 12 18C12 18.553 11.553 19 11 19ZM14 19C13.447 19 13 18.553 13 18C13 17.447 13.447 17 14 17C14.553 17 15 17.447 15 18C15 18.553 14.553 19 14 19Z M18 6H17.91C17.432 3.167 14.967 1 12 1C9.033 1 6.568 3.167 6.09 6H6C4.896 6 4 6.896 4 8V9C4 10.104 4.896 11 6 11C6 12.102 6.897 13 8 13H16C17.104 13 18 12.102 18 11C19.104 11 20 10.104 20 9V8C20 6.896 19.104 6 18 6ZM16 10H8V6H16V10Z");
   transform: scale(1) !important;
 }
@@ -652,15 +652,15 @@
 }
 
 /* German */
-.mainContent-u_9PKf[aria-label*=zitate][aria-label$="text channel)"] > div > svg > path:first-child {
+.mainContent-u_9PKf[aria-label*=zitat][aria-label$="text channel)"] > div > svg > path:first-child {
   d: path("M19.8401 5.39392C20.1229 4.73405 19.6389 4 18.921 4H17.1231C16.7417 4 16.3935 4.21695 16.2254 4.55933L13.3297 10.4581C13.195 10.7324 13.125 11.0339 13.125 11.3394V19C13.125 19.5523 13.5727 20 14.125 20H20C20.5523 20 21 19.5523 21 19V12.875C21 12.3227 20.5523 11.875 20 11.875H17.8208C17.4618 11.875 17.2198 11.508 17.3612 11.178L19.8401 5.39392ZM9.71511 5.39392C9.99791 4.73405 9.51388 4 8.79596 4H6.99809C6.61669 4 6.2685 4.21695 6.10042 4.55933L3.20466 10.4581C3.07001 10.7324 3 11.0339 3 11.3394V19C3 19.5523 3.44772 20 4 20H9.875C10.4273 20 10.875 19.5523 10.875 19V12.875C10.875 12.3227 10.4273 11.875 9.875 11.875H7.69577C7.33681 11.875 7.0948 11.508 7.2362 11.178L9.71511 5.39392Z");
   transform: scale(1) !important;
 }
-.mainContent-u_9PKf[aria-label*=zitate][aria-label$="text channel)"] > div > svg[viewBox="0 0 40 40"] > path {
+.mainContent-u_9PKf[aria-label*=zitat][aria-label$="text channel)"] > div > svg[viewBox="0 0 40 40"] > path {
   transform: scale(1.7) !important;
 }
 
-.mainContent-u_9PKf[aria-label*=zitate][aria-label$="announcement channel)"] > div > svg > path {
+.mainContent-u_9PKf[aria-label*=zitat][aria-label$="announcement channel)"] > div > svg > path {
   d: path("M19.8401 5.39392C20.1229 4.73405 19.6389 4 18.921 4H17.1231C16.7417 4 16.3935 4.21695 16.2254 4.55933L13.3297 10.4581C13.195 10.7324 13.125 11.0339 13.125 11.3394V19C13.125 19.5523 13.5727 20 14.125 20H20C20.5523 20 21 19.5523 21 19V12.875C21 12.3227 20.5523 11.875 20 11.875H17.8208C17.4618 11.875 17.2198 11.508 17.3612 11.178L19.8401 5.39392ZM9.71511 5.39392C9.99791 4.73405 9.51388 4 8.79596 4H6.99809C6.61669 4 6.2685 4.21695 6.10042 4.55933L3.20466 10.4581C3.07001 10.7324 3 11.0339 3 11.3394V19C3 19.5523 3.44772 20 4 20H9.875C10.4273 20 10.875 19.5523 10.875 19V12.875C10.875 12.3227 10.4273 11.875 9.875 11.875H7.69577C7.33681 11.875 7.0948 11.508 7.2362 11.178L9.71511 5.39392Z");
   transform: scale(1) !important;
 }
