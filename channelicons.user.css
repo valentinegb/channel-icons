@@ -6,10 +6,10 @@
 @author         Vbriese <valentine.briese.07@gmail.com>
 @homepageURL    https://github.com/v-briese/channel-icons
 @supportURL     https://github.com/v-briese/channel-icons/issues
-@updateURL      https://v-briese.github.io/channel-icons/channelicons.user.css
+@updateURL      https://valentinegb.github.io/channel-icons/channelicons.user.css
 @license        MIT
 ==/UserStyle== */
 
 @-moz-document domain("discord.com") {
-	@import url("https://v-briese.github.io/channel-icons/channelicons.theme.css");
+	@import url("https://valentinegb.github.io/channel-icons/channelicons.theme.css");
 }
